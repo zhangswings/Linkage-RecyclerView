@@ -61,7 +61,7 @@ public class GreatPhoneGroupedItem extends BaseGroupedItem<GreatPhoneGroupedItem
     }
 
     public String getImgUrl() {
-      return imgUrl;
+      return imgUrl;    
     }
 
     public void setImgUrl(String imgUrl) {
